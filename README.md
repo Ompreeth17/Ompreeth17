@@ -1,4 +1,4 @@
-|[Your Alt Text](Assests/iko2.gif)
+![Alt text for image](Assests/iko2.gif)
 
 ## 💫 Hi, I’m Ompreeth!
 
