@@ -4,6 +4,15 @@
 
 I specialize in data analysis and visualization, using tools like Python, SQL, Tableau, and Microsoft Power BI to derive meaningful insights from complex datasets. My technical expertise includes working with NumPy, Pandas, and Scikit-learn for data manipulation and analysis, along with Matplotlib and Seaborn for creating visual stories. I’m passionate about applying critical thinking and analytical skills to solve real-world business problems. Always open to collaborating on projects that create value and impact, transforming data into actionable insights with Python, SQL, and powerful visualizations using Tableau and Power BI.<br><br>Technical Skills:<br>• Programming: Python, SQL<br>• Data Science: NumPy, Pandas, Scikit-learn<br>• Data Visualization: Matplotlib, Seaborn, Tableau, Microsoft Power BI, Microsoft Excel<br>• Tools: Excel, Spreadsheets, MySQL WorkBench, Jupyter Notebook, Visual Studio<br><br>Other Skills: Communication, Teamwork, Problem Solving, Decision Making, Critical Thinking, Analytical Thinking, Business & Data Analysis
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ompreeth17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ompreeth17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ompreeth17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ompreeth17&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ompreeth-d-r-3a2918225) 
